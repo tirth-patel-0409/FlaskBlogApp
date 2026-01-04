@@ -1,0 +1,13 @@
+{
+  "params": {
+    "local_server": "True",
+    "github_uri": "https://github.com/tirth-patel-0409",
+    "twitter_uri": "https://x.com/tirthpatel42",
+    "facebook_uri": "https://www.facebook.com/profile.php?id=100011310553440",
+    "blog_name": "The Daily Draft",
+    "tag_line": "Draft. Edit. Publish.",
+    "about_text": "Hello! I’m Tirth, a Python developer passionate about creating practical and well-structured software. I’m currently learning Flask to strengthen my web development skills and build fast, reliable API-driven applications.",
+    "no_of_posts": 4,
+    "login_image": "login.png"
+  }
+}
